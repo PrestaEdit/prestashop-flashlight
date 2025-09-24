@@ -54,7 +54,7 @@ PrestaShop Flashlight is based on the official compatibility charts:
 - PrestaShop 1.6-1.7.x [PHP compatibility chart](https://devdocs.prestashop-project.org/1.7/basics/installation/system-requirements/#php-compatibility-chart)
 - PrestaShop 8.x [PHP compatibility chart](https://devdocs.prestashop-project.org/8/basics/installation/system-requirements/#php-compatibility-chart)
 
-You can check this implementation anytime in [prestashop-version.json](./prestashop-version.json).
+You can check this implementation anytime in [prestashop-version.json](./prestashop-versions.json).
 
 | Supported PrestaShop versions | Supported PHP versions |
 | ----------------------------- | ---------------------- |
